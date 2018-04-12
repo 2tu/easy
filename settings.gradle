@@ -1,0 +1,5 @@
+rootProject.name = 'easy'
+
+include 'network'
+include 'poi'
+
